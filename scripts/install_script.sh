@@ -20,4 +20,3 @@ pip3 install requests==2.18.4
 pip3 install ipython==6.3.1
 pip3 install django-webpack-loader==0.6.0
 pip3 install wheel==0.26.0
-
